@@ -1,0 +1,6 @@
+{
+  "name": "SocialSoccer",
+  "description": "Aplicación deportiva y financiera de fútbol amateur con carnet digital de jugador, calendario de partidos, gestión de pagos y estadísticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
